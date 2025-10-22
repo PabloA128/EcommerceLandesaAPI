@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\EcommerceAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91258659-D133-4A95-8E2C-3DAD35DCB625}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\dell\\desktop\\ecommerceapi\\ecommerceapi\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91258659-D133-4A95-8E2C-3DAD35DCB625}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91258659-D133-4A95-8E2C-3DAD35DCB625}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\dell\\desktop\\ecommerceapi\\ecommerceapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91258659-D133-4A95-8E2C-3DAD35DCB625}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91258659-D133-4A95-8E2C-3DAD35DCB625}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\dell\\desktop\\ecommerceapi\\ecommerceapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91258659-D133-4A95-8E2C-3DAD35DCB625}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91258659-D133-4A95-8E2C-3DAD35DCB625}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\dell\\desktop\\ecommerceapi\\ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91258659-D133-4A95-8E2C-3DAD35DCB625}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91258659-D133-4A95-8E2C-3DAD35DCB625}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\dell\\desktop\\ecommerceapi\\ecommerceapi\\data\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91258659-D133-4A95-8E2C-3DAD35DCB625}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\data\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91258659-D133-4A95-8E2C-3DAD35DCB625}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\dell\\desktop\\ecommerceapi\\ecommerceapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91258659-D133-4A95-8E2C-3DAD35DCB625}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\EcommerceAPI\\EcommerceAPI\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Repositories\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\EcommerceAPI\\EcommerceAPI\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "EcommerceAPI\\Repositories\\AuthRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwGUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:52:38.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\EcommerceAPI\\EcommerceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\EcommerceAPI\\EcommerceAPI\\Program.cs",
+              "RelativeToolTip": "EcommerceAPI\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T22:34:59.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EcommerceContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\EcommerceAPI\\EcommerceAPI\\Data\\EcommerceContext.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Data\\EcommerceContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\EcommerceAPI\\EcommerceAPI\\Data\\EcommerceContext.cs",
+              "RelativeToolTip": "EcommerceAPI\\Data\\EcommerceContext.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T00:48:52.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\EcommerceAPI\\EcommerceAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\EcommerceAPI\\EcommerceAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EcommerceAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwBUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T01:34:24.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\EcommerceAPI\\EcommerceAPI\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\EcommerceAPI\\EcommerceAPI\\Services\\AuthService.cs",
+              "RelativeToolTip": "EcommerceAPI\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T01:26:44.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\EcommerceAPI\\EcommerceAPI\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\EcommerceAPI\\EcommerceAPI\\Models\\Usuario.cs",
+              "RelativeToolTip": "EcommerceAPI\\Models\\Usuario.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswBEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T01:26:07.86Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
