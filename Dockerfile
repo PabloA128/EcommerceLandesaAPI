@@ -1,22 +1,22 @@
 # Imagen base para ejecutar la app
-FROM mcr.microsoft.comdotnetaspnet8.0 AS base
-WORKDIR app
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
+WORKDIR /app
 EXPOSE 80
 
 # Imagen para compilar la app
-FROM mcr.microsoft.comdotnetsdk8.0 AS build
-WORKDIR src
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+WORKDIR /src
 
 # Copia todos los archivos al contenedor
 COPY . .
 
 # Publica el proyecto
-RUN dotnet publish EcommerceAPI.csproj -c Release -o apppublish
+RUN dotnet publish "EcommerceAPI.csproj" -c Release -o /app/publish
 
 # Imagen final
 FROM base AS final
-WORKDIR app
-COPY --from=build apppublish .
+WORKDIR /app
+COPY --from=build /app/publish .
 
 # Comando para iniciar la app
-ENTRYPOINT [dotnet, EcommerceAPI.dll]
+ENTRYPOINT ["dotnet", "EcommerceAPI.dll"]
