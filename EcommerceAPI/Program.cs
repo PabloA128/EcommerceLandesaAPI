@@ -26,10 +26,15 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAngularApp", policy =>
     {
-        policy.WithOrigins("http://localhost:4200", "https://localhost:4200")
-              .AllowAnyHeader()
-              .AllowAnyMethod()
-              .AllowCredentials();
+        policy
+                    .SetIsOriginAllowed(origin =>
+                        new Uri(origin).Host.EndsWith("vercel.app") ||
+                        origin == "http://localhost:4200" ||
+                        origin == "https://localhost:4200"
+                    )
+                    .AllowAnyHeader()
+                    .AllowAnyMethod()
+                    .AllowCredentials();
     });
 });
 
